@@ -272,7 +272,7 @@
                               <Font size="57.0" />
                            </font>
                         </Label>
-                        <Label layoutX="277.0" layoutY="38.0" prefHeight="68.0" prefWidth="163.0" text="BINARY">
+                        <Label layoutX="250.0" layoutY="38.0" prefHeight="68.0" prefWidth="163.0" text="BINARY">
                            <font>
                               <Font size="46.0" />
                            </font>
